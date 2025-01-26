@@ -1,0 +1,3 @@
+plotly:
+  theme: plotly_white
+  render: vscode+pdf+png+jpeg
